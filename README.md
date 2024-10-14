@@ -22,4 +22,6 @@ TryHackMe Security Engineer
 
 ### 🧰 Projects
 
-Wazuh SIEM Lab (On-Prem) [Wazuh Lab](https://pleasehavepatienceimnew.github.io/wazuh.html)
+Wazuh SOC Automation Lab (On-Prem) [Wazuh Lab](https://pleasehavepatienceimnew.github.io/wazuh.html)
+
+ELK SOC Lab (Cloud) [ELK Lab](https://pleasehavepatienceimnew.github.io/ELK%20Lab.html)
