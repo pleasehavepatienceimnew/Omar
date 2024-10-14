@@ -22,4 +22,4 @@ TryHackMe Security Engineer
 
 ### 🧰 Projects
 
-Wazuh SIEM Lab (On-Prem) "[pleasehavepatienceimnew.github.io][wazuh.md]"
+Wazuh SIEM Lab (On-Prem) [Wazuh Lab](https://pleasehavepatienceimnew.github.io/wazuh.html)
